@@ -1,0 +1,14 @@
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.csprojAssemblyReference.cache
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.csproj.CoreCompileInputs.cache
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.RazorAssemblyInfo.cache
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.RazorAssemblyInfo.cs
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.AssemblyInfoInputs.cache
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.AssemblyInfo.cs
+C:\Users\j.martinez\source\repos\Permisos\Permisos\bin\Debug\netcoreapp2.2\Permisos.deps.json
+C:\Users\j.martinez\source\repos\Permisos\Permisos\bin\Debug\netcoreapp2.2\Permisos.runtimeconfig.json
+C:\Users\j.martinez\source\repos\Permisos\Permisos\bin\Debug\netcoreapp2.2\Permisos.runtimeconfig.dev.json
+C:\Users\j.martinez\source\repos\Permisos\Permisos\bin\Debug\netcoreapp2.2\Permisos.dll
+C:\Users\j.martinez\source\repos\Permisos\Permisos\bin\Debug\netcoreapp2.2\Permisos.pdb
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.RazorTargetAssemblyInfo.cache
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.dll
+C:\Users\j.martinez\source\repos\Permisos\Permisos\obj\Debug\netcoreapp2.2\Permisos.pdb
